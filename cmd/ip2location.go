@@ -15,7 +15,7 @@ var (
 	cmdName     = "ip2location"
 	shortDesc   = "Convert ip address to location"
 	GetIpURL    = "https://ifconfig.me"
-	binFilePath = "./bin/IP2LOCATION-LITE-DB3.BIN"
+	binFilePath = "IP2LOCATION-LITE-DB3.BIN"
 )
 
 const (
